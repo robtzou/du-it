@@ -1,4 +1,4 @@
-# Du-it
+# Momentum
 
 A smart routine application designed to enhance student productivity and eliminate indecision.
 
@@ -8,20 +8,20 @@ A smart routine application designed to enhance student productivity and elimina
 
 University life presents a constant challenge of balancing academic responsibilities, personal goals, and social activities. This often leads to indecision and procrastination, ultimately hindering productivity.
 
-**Du-it** is a student-centric mobile application built to solve this problem. It moves beyond simple to-do lists by intelligently generating actionable tasks based on the user's schedule. By integrating features like location-based accountability and flexible scheduling, Du-it ensures students not only plan their day but also stick to it.
+**Momentum** is a student-centric mobile application built to solve this problem. It moves beyond simple to-do lists by intelligently generating actionable tasks based on the user's schedule. By integrating features like location-based accountability and flexible scheduling, Momentum ensures students not only plan their day but also stick to it.
 
 ## Key Features
 
-* **Intelligent Task Generation:** Du-it automatically populates the user's schedule with clear, actionable items. This significantly reduces the cognitive load of deciding "what to do next" and helps students begin tasks immediately.
+* **Intelligent Task Generation:** Momentum automatically populates the user's schedule with clear, actionable items. This significantly reduces the cognitive load of deciding "what to do next" and helps students begin tasks immediately.
 
 * **Location-Based Accountability:** To ensure routines are followed, the application can use location checking to verify a user's presence at scheduled events. Whether it's arriving at the library for a study session or attending a lecture, this feature provides a gentle nudge to stay on track.
 
-* **Dynamic Event Editing:** We understand that student schedules are not static. Du-it features a highly flexible interface that allows for on-the-fly event editing. Users can easily adjust, reschedule, or modify tasks as unexpected conflicts or opportunities arise, ensuring the plan remains realistic and achievable.
+* **Dynamic Event Editing:** We understand that student schedules are not static. Momentum features a highly flexible interface that allows for on-the-fly event editing. Users can easily adjust, reschedule, or modify tasks as unexpected conflicts or opportunities arise, ensuring the plan remains realistic and achievable.
 
 ## How It Works
 
 1.  **Input:** The user inputs their static schedule (classes, work) and high-level goals (e.g., "Study for INST326," "Work on Capstone project").
-2.  **Generate:** Du-it processes this information and generates a complete, itemized schedule for the day, breaking down large goals into manageable tasks.
+2.  **Generate:** Momentum processes this information and generates a complete, itemized schedule for the day, breaking down large goals into manageable tasks.
 3.  **Execute & Verify:** The user follows the generated plan. Location checking (if enabled) confirms adherence to a-location specific tasks (like "Arrive at Gym").
 4.  **Adapt:** If a professor moves an office hour or a study group runs late, the user can dynamically edit the event, and the application adjusts the subsequent routine.
 
@@ -57,4 +57,4 @@ Distributed under the [License Name] License. See `LICENSE.md` for more informat
 
 ## Contact
 
-Project Link: [https://github.com/your_username/du-it](https://github.com/your_username/du-it)
+Project Link: [https://github.com/your_username/Momentum](https://github.com/robtzou/Momentum)
