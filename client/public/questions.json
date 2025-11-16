@@ -1,0 +1,44 @@
+[
+  {
+    "id": "q1",
+    "type": "mcq",
+    "text": "What's your living situation?",
+    "options": ["On-Campus Resident", "Off-Campus (Commuter)"]
+  },
+  {
+    "id": "q2",
+    "type": "mcq",
+    "text": "What's your primary \"home base\" or parking spot?",
+    "options": ["North Campus", "South Campus", "Adelphi", "Lot 4", "Other"]
+  },
+  {
+    "id": "q3",
+    "type": "mcq",
+    "text": "On average, how long does it take you to get to class",
+    "options": ["Less than 15 minutes", "15-30 minutes", "30-60 minutes", "More than 60 minutes", "I don't commute"]
+  },
+  {
+    "id": "q4",
+    "type": "add_events",
+    "text": "What are your fixed commitments? Add classes, work, or standing meetings. For each give Event Name, Start Time, End Time, and Location.",
+    "options": []
+  },
+  {
+    "id": "q5",
+    "type": "time",
+    "text": "Ideal wake up time (when do you usually wake up / want to wake up?)",
+    "options": []
+  },
+  {
+    "id": "q6",
+    "type": "time",
+    "text": "Ideal bedtime (when do you usually go to bed / want to sleep?)",
+    "options": []
+  },
+  {
+    "id": "q7",
+    "type": "mcq",
+    "text": "When are you most focused?",
+    "options": ["Morning (I'm a morning person)", "Afternoon", "Evening / Late Night (I'm a night owl)"]
+  }
+]

@@ -1,11 +1,11 @@
-import React from "react";
-import "./Hero.css";
+{/* import React from "react";
+import "./main_page.css";
 
 const Hero: React.FC = () => {
   return (
     <section className="hero">
       <div className="hero-inner">
-        {/* LEFT: HERO TEXT */}
+        {/* LEFT: HERO TEXT */}{/*
         <div className="hero-copy">
           <div className="hero-kicker">Daily planner</div>
           <h1>
@@ -49,10 +49,10 @@ const Hero: React.FC = () => {
           </div>
         </div>
 
-        {/* RIGHT: HERO VISUAL (PHONE MOCKUP) */}
+        {/* RIGHT: HERO VISUAL (PHONE MOCKUP) */}{/*
         <div className="hero-visual">
           <div className="phone">
-            {/* status bar */}
+            {/* status bar */}{/*
             <div className="status-bar">
               <div className="signal-bars">
                 <span />
@@ -65,7 +65,7 @@ const Hero: React.FC = () => {
               </div>
             </div>
 
-            {/* phone main content */}
+            {/* phone main content */}{/*
             <div className="phone-main">
               <div className="header-row">
                 <div className="title-block">
@@ -98,24 +98,24 @@ const Hero: React.FC = () => {
               </div>
             </div>
 
-            {/* bottom nav */}
+            {/* bottom nav */}{/*
             <nav className="bottom-nav">
               <div className="nav-item">
-                {/* Home icon */}
+                {/* Home icon */}{/*
                 <svg viewBox="0 0 24 24">
                   <path d="M3 10.5L12 4l9 6.5" />
                   <path d="M5 10v9h5v-5h4v5h5v-9" />
                 </svg>
               </div>
               <div className="nav-item">
-                {/* Bell icon */}
+                {/* Bell icon */}{/*
                 <svg viewBox="0 0 24 24">
                   <path d="M12 21a2 2 0 0 0 2-2H10a2 2 0 0 0 2 2z" />
                   <path d="M18 16H6l1.4-1.8A4 4 0 0 0 8 12V9a4 4 0 0 1 8 0v3c0 .9.3 1.8.6 2.2L18 16z" />
                 </svg>
               </div>
               <div className="nav-item">
-                {/* User icon */}
+                {/* User icon */}{/*
                 <svg viewBox="0 0 24 24">
                   <path d="M12 12a4 4 0 1 0-4-4 4 4 0 0 0 4 4z" />
                   <path d="M5 20a7 7 0 0 1 14 0" />
@@ -130,3 +130,4 @@ const Hero: React.FC = () => {
 };
 
 export default Hero;
+*/}
