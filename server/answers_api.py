@@ -25,6 +25,19 @@ def save_answers():
         return jsonify({'error': str(e)}), 500
 
 
+@app.route('/answers', methods=['GET'])
+def get_answers():
+    # Return saved answers.json if present
+    try:
+        if not os.path.exists(ANSWERS_PATH):
+            return jsonify({'error': 'No answers found'}), 404
+        with open(ANSWERS_PATH, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        return jsonify(data), 200
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+
 if __name__ == '__main__':
-    # Run on port 5000 by default
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    # Run on port 8080 by default
+    app.run(host='0.0.0.0', port=8080, debug=True)

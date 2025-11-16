@@ -457,7 +457,7 @@ const OnboardingQuestions: React.FC<Props> = ({ onBack }) => {
                     onClick={async () => {
                       try {
                         // POST collected answers to local backend
-                        const res = await fetch('http://localhost:5000/answers', {
+                        const res = await fetch('http://localhost:8080/answers', {
                           method: 'POST',
                           headers: { 'Content-Type': 'application/json' },
                           body: JSON.stringify({ answers }),
